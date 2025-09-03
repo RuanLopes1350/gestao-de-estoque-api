@@ -68,7 +68,7 @@ Este é um projeto acadêmico construído com o objetivo de aprender a desenvolv
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/RuanLopes1350/gestao-de-estoque---api.git
+git clone https://github.com/RuanLopes1350/gestao-de-estoque-api.git
 cd gestao-de-estoque
 ```
 
